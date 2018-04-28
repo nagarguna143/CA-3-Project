@@ -179,7 +179,7 @@ void fcfs(int n, struct process proc[]) {
         printf("\nProcess[%d]\t\t%0.2f\t\t%0.2f\n",proc[i].processId,wTime[i],tat_time[i]);
     }
     //printf("\nAverage waiting time : %0.2f",aw_time/n);
-    //printf("\nAverage turn around time : %0.2f",atat_time/n);       
+
 }
 
 
