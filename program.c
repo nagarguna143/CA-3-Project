@@ -257,11 +257,10 @@ int main() {
 
 
 
-// main_scheduling() {
-//    RoundRobin - 10sec
-//          q1 / q2 / q3
-// }
 
-// queue1() - round robin 4 secs
-// queue2() - priority scheduling
-// queue3() - FCFS
+
+
+
+
+
+
