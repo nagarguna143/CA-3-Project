@@ -247,10 +247,10 @@ int main() {
 	queueScheduling1() ;
 	queueScheduling2() ;
 	queueScheduling3() ;
-//	int i ;
-//	for(i = 0; i<n;i++) {
+
+
 //		
-//		printf("%d %d %d %d\n",proc[i].processId,proc[i].arrivalTime,proc[i].burstTime,proc[i].priority) ;
+//		
 //	}
 }
 
