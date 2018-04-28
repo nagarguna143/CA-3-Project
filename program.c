@@ -108,9 +108,9 @@ void assignProcessInQueue(int n, struct process proc[]) {
 
 
 void printQueueFront() {
-//	printf("Queue 1 1st -> P%d\n",queue1Front().processId) ;
-//	printf("Queue 2 1st -> P%d\n",queue2Front().processId) ;
-//	printf("Queue 3 1st -> P%d\n",queue3Front().processId) ;
+
+
+
 	int i ;
 	printf("Process in Queue 1 - ") ;
 	for(i=0;i<=rear1;i++) {
@@ -153,8 +153,8 @@ void roundRobin(int n, struct process proc[]) {
 	    else 
 	    	i=0; 
 	} 
-	//printf("\nAverage Waiting Time= %f\n",waitTime*1.0/n); 
-	//printf("Avg Turnaround Time = %f",turnAroundTime*1.0/n); 
+	
+	
 }
 
 
